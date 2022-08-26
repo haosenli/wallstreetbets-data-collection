@@ -1,3 +1,7 @@
+# wallstreetbets-data-collection
+Aggregates r/wallstreetbets and stock market information for data analysis.
+
+# About
 Hello! This program is for analysing the discussion activities in the WallStreetBets Reddit.
 
 Before running the program, the following external libraries are needed:\
